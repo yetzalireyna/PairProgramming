@@ -1,5 +1,5 @@
 '''
-Yetzali Reyna
+Myname
 07/26/21
 
 This program will create a class for the game of Tic-Tac-Toe
