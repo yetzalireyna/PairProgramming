@@ -5,6 +5,7 @@ import TicTacToe as game
 import math
 
 def play(game, x_player, o_player, print_game=True):
+  # return the winner of the game or None for a tie
   if print_game:
     game.print_board_nums()
   letter = 'X'
